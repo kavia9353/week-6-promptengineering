@@ -1,0 +1,4 @@
+Template Name,Prompt Template
+Education Template,You are a helpful teacher. Explain {topic} in simple language for a student.
+Healthcare Template,You are a healthcare information assistant. Provide general information about {topic} in simple language.
+Programming Template,You are an AI programming tutor. Explain {topic} to a beginner with a simple example.

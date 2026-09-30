@@ -1,0 +1,358 @@
+Domain,Problem,Zero-Shot,One-Shot,Few-Shot,Role Prompting,Chain-of-Thought
+Education,How can students improve their study habits?,"How can students improve their study habits?
+
+
+
+We're looking at a few topics in the study:
+1) Why students spend most of their time doing schoolwork.
+2) Why students spend most of their time doing schoolwork.
+3) How often students spend","
+Example:
+Question: What is time management?
+Answer: Time management means planning and organizing your time effectively.
+
+Question: How can students improve their study habits?
+Answer:
+Question: How can students improve their study habits?
+Answer:
+Question: How can students improve their study habits?
+Answer:
+Question: How can students improve their study habits?
+Answer:
+Question: How can students improve their study","
+Example 1:
+Question: How can students study better?
+Answer: Students can create a timetable, avoid distractions and revise regularly.
+
+Example 2:
+Question: Why is exercise important?
+Answer: Exercise helps improve physical health, energy and overall well-being.
+
+Question: How can students improve their study habits?
+Answer:
+Answer: They know that exercise is not the only important activity that students can do.
+Question: Why does exercise lead to better habits?
+Answer: Exercise has a strong impact on the health of the student.
+Example 3:
+Question:","
+You are a Teacher.
+Give a simple and helpful answer to the following question:
+
+How can students improve their study habits?
+How can students improve their study habits?
+How can students improve their study habits?
+How can students improve their study habits?
+How can students improve their study habits?
+How can students improve their study habits?
+How can students improve their","
+Solve the following problem carefully.
+Explain the key steps briefly and then give the final answer.
+
+Question: How can students improve their study habits?
+Answer: If you take a class that has a focus on a particular subject, your students will increase their concentration.
+Question: What are the goals of the study?
+Answer: As students become more aware of the topic and the subject is more"
+Healthcare,What are some general ways to maintain a healthy lifestyle?,"What are some general ways to maintain a healthy lifestyle?
+
+
+
+
+Is there some way to maintain a healthy lifestyle?
+
+
+What is your personal decision about your lifestyle?
+
+What is your personal decision about your lifestyle?
+What is your personal decision about your lifestyle?
+How","
+Example:
+Question: What is time management?
+Answer: Time management means planning and organizing your time effectively.
+
+Question: What are some general ways to maintain a healthy lifestyle?
+Answer:
+Question: What is your favorite restaurant?
+Answer:
+Question: What are your favorite restaurant?
+Answer:
+Question: What are the rules of life?
+Answer:
+Question: What are the rules of life?
+Answer:
+","
+Example 1:
+Question: How can students study better?
+Answer: Students can create a timetable, avoid distractions and revise regularly.
+
+Example 2:
+Question: Why is exercise important?
+Answer: Exercise helps improve physical health, energy and overall well-being.
+
+Question: What are some general ways to maintain a healthy lifestyle?
+Answer:
+Question: Why do you use exercise, exercise or not?
+Answer: Exercise can help with your health, energy and overall well-being.
+Question: What are some general ways to change your diet, lifestyle and overall well-being?
+","
+You are a Doctor.
+Give a simple and helpful answer to the following question:
+
+What are some general ways to maintain a healthy lifestyle?
+How many regular steps do you take every day to maintain a healthy lifestyle?
+How many regular steps do you take every day to maintain a healthy lifestyle?
+Do you regularly exercise?
+Do you regularly exercise?
+Do you regularly exercise?
+","
+Solve the following problem carefully.
+Explain the key steps briefly and then give the final answer.
+
+Question: What are some general ways to maintain a healthy lifestyle?
+Answer: You can say they are not.
+Question: Are they healthier?
+Answer: No, it is not. You can never say they are healthy.
+Question: How are you doing about your body and your body?
+Answer:"
+Finance,Why is saving money important?,"Why is saving money important?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","
+Example:
+Question: What is time management?
+Answer: Time management means planning and organizing your time effectively.
+
+Question: Why is saving money important?
+Answer:
+Question:
+Question: Time management is a tool for you to understand the world and how to plan efficiently.
+Question: What are the main reasons for doing that?
+Answer:
+Question: Why does the timekeeper need to spend a lot","
+Example 1:
+Question: How can students study better?
+Answer: Students can create a timetable, avoid distractions and revise regularly.
+
+Example 2:
+Question: Why is exercise important?
+Answer: Exercise helps improve physical health, energy and overall well-being.
+
+Question: Why is saving money important?
+Answer:
+Exercise helps reduce distractions and stress.
+Example 3:
+Question: Why is exercise important?
+Answer:
+Exercise helps lower stress and improve health.
+Example 4:
+Question: Why is exercise important?
+Answer:
+Ex","
+You are a HR Manager.
+Give a simple and helpful answer to the following question:
+
+Why is saving money important?
+How do you make a difference?
+Why do you think your salary is important?
+What are your goals?
+What are your goals?
+What are your goals?
+How do you make a difference?
+What do you want to do","
+Solve the following problem carefully.
+Explain the key steps briefly and then give the final answer.
+
+Question: Why is saving money important?
+Answer: Because it means that you can start saving money.
+Question: Why is saving money important?
+Answer: Because it means that you can start saving money.
+Question: Why is saving money important?
+Answer: Because it means that"
+Customer Support,My product is not working. What should I do?,My product is not working. What should I do? Can I use it for my own purposes?,"
+Example:
+Question: What is time management?
+Answer: Time management means planning and organizing your time effectively.
+
+Question: My product is not working. What should I do?
+Answer:
+My product is not working. What should I do?
+Answer:
+My product is not working. What should I do?
+Question: How much is the amount of time I can spend and how much time I should spend?
+Answer:","
+Example 1:
+Question: How can students study better?
+Answer: Students can create a timetable, avoid distractions and revise regularly.
+
+Example 2:
+Question: Why is exercise important?
+Answer: Exercise helps improve physical health, energy and overall well-being.
+
+Question: My product is not working. What should I do?
+Answer:
+Exercise helps people reduce stress and improve their physical health.
+Example 3:
+Question: What is the best way to improve your sleep?
+Answer: I use this method to help the students.
+Example 4:
+Question: Why is","
+You are a Travel Guide.
+Give a simple and helpful answer to the following question:
+
+My product is not working. What should I do?
+What should I do?
+What should I do?
+What should I do?
+Tell me what changes I want to make.
+Tell me what I want to make.
+Tell me what I want to make.
+Tell me what I","
+Solve the following problem carefully.
+Explain the key steps briefly and then give the final answer.
+
+Question: My product is not working. What should I do?
+Answer: What will I do?
+Answer: We have an answer to the problem.
+Question: Is this my product?
+Answer: I am not a professional. I have a job and I have a job.
+Answer: I am"
+Programming,Explain Python loops to a beginner.,"Explain Python loops to a beginner.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","
+Example:
+Question: What is time management?
+Answer: Time management means planning and organizing your time effectively.
+
+Question: Explain Python loops to a beginner.
+Answer:
+Question: Why do you define time management?
+Answer: Python loops to a beginner.
+Question: What is the difference between using a single loop and using a loop?
+Answer: Python loops to a beginner.
+Question: What is the","
+Example 1:
+Question: How can students study better?
+Answer: Students can create a timetable, avoid distractions and revise regularly.
+
+Example 2:
+Question: Why is exercise important?
+Answer: Exercise helps improve physical health, energy and overall well-being.
+
+Question: Explain Python loops to a beginner.
+Answer:
+Question: How can students learn to do better?
+Answer:
+Question: Why is exercise important?
+Answer: Exercise helps increase your IQ and improve performance.
+Example 3:
+Question: Why is exercise important?
+Answer: Exercise helps","
+You are a AI Engineer.
+Give a simple and helpful answer to the following question:
+
+Explain Python loops to a beginner.
+Use a simple and helpful answer to the following question:
+Explain Python loops to a beginner.
+Use a simple and helpful answer to the following question:
+Explain Python loops to a beginner.
+Use a simple and helpful answer to the","
+Solve the following problem carefully.
+Explain the key steps briefly and then give the final answer.
+
+Question: Explain Python loops to a beginner.
+Answer: If you are not familiar with Python loops, the easiest step to get started is simply to use them. (This is the very first time Python loops have been tested.)
+Answer: Python loops can be used as an interpreter (for example"
