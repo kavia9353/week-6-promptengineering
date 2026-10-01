@@ -1,6 +1,6 @@
-Technique,Quality,Accuracy,Completeness
-Zero-Shot,3,3,3
-One-Shot,4,4,3
-Few-Shot,4,4,4
-Role Prompting,4,4,4
-Chain-of-Thought,5,4,5
+technique,clarity,relevance,specificity
+Zero-Shot,5,5,4
+One-Shot,5,5,4
+Few-Shot,5,5,4
+Role Prompting,5,5,4
+Chain-of-Thought,5,5,4
